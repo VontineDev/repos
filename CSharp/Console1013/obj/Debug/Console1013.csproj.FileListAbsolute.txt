@@ -1,0 +1,9 @@
+C:\Users\Jin\source\repos\Console1013\bin\Debug\Console1013.exe.config
+C:\Users\Jin\source\repos\Console1013\bin\Debug\Console1013.exe
+C:\Users\Jin\source\repos\Console1013\bin\Debug\Console1013.pdb
+C:\Users\Jin\source\repos\Console1013\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jin\source\repos\Console1013\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jin\source\repos\Console1013\obj\Debug\Console1013.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Console1013\obj\Debug\Console1013.csproj.CopyComplete
+C:\Users\Jin\source\repos\Console1013\obj\Debug\Console1013.exe
+C:\Users\Jin\source\repos\Console1013\obj\Debug\Console1013.pdb

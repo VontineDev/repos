@@ -1,0 +1,12 @@
+C:\Workspace\Console\Syntax\Syntax29\bin\Debug\Syntax29.exe.config
+C:\Workspace\Console\Syntax\Syntax29\bin\Debug\Syntax29.exe
+C:\Workspace\Console\Syntax\Syntax29\bin\Debug\Syntax29.pdb
+C:\Workspace\Console\Syntax\Syntax29\obj\Debug\Syntax29.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax29\obj\Debug\Syntax29.exe
+C:\Workspace\Console\Syntax\Syntax29\obj\Debug\Syntax29.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax29\bin\Debug\Syntax29.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax29\bin\Debug\Syntax29.exe
+C:\Users\Jin\source\repos\Syntax\Syntax29\bin\Debug\Syntax29.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax29\obj\Debug\Syntax29.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax29\obj\Debug\Syntax29.exe
+C:\Users\Jin\source\repos\Syntax\Syntax29\obj\Debug\Syntax29.pdb

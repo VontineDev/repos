@@ -1,0 +1,7 @@
+C:\Users\IT학교\source\repos\ConsoleApp1007\Syntax01\bin\Debug\Syntax01.exe.config
+C:\Users\IT학교\source\repos\ConsoleApp1007\Syntax01\bin\Debug\Syntax01.exe
+C:\Users\IT학교\source\repos\ConsoleApp1007\Syntax01\bin\Debug\Syntax01.pdb
+C:\Users\IT학교\source\repos\ConsoleApp1007\Syntax01\obj\Debug\Syntax01.csprojAssemblyReference.cache
+C:\Users\IT학교\source\repos\ConsoleApp1007\Syntax01\obj\Debug\Syntax01.csproj.CoreCompileInputs.cache
+C:\Users\IT학교\source\repos\ConsoleApp1007\Syntax01\obj\Debug\Syntax01.exe
+C:\Users\IT학교\source\repos\ConsoleApp1007\Syntax01\obj\Debug\Syntax01.pdb

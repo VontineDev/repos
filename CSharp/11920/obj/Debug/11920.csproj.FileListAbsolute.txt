@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\11920\bin\Debug\11920.exe.config
+C:\Users\Jin\source\repos\11920\bin\Debug\11920.exe
+C:\Users\Jin\source\repos\11920\bin\Debug\11920.pdb
+C:\Users\Jin\source\repos\11920\obj\Debug\11920.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\11920\obj\Debug\11920.exe
+C:\Users\Jin\source\repos\11920\obj\Debug\11920.pdb

@@ -1,0 +1,14 @@
+C:\Workspace\Console\Syntax\Syntax49\bin\Debug\Syntax49.exe.config
+C:\Workspace\Console\Syntax\Syntax49\bin\Debug\Syntax49.exe
+C:\Workspace\Console\Syntax\Syntax49\bin\Debug\Syntax49.pdb
+C:\Workspace\Console\Syntax\Syntax49\obj\Debug\Syntax49.csprojAssemblyReference.cache
+C:\Workspace\Console\Syntax\Syntax49\obj\Debug\Syntax49.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax49\obj\Debug\Syntax49.exe
+C:\Workspace\Console\Syntax\Syntax49\obj\Debug\Syntax49.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax49\bin\Debug\Syntax49.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax49\bin\Debug\Syntax49.exe
+C:\Users\Jin\source\repos\Syntax\Syntax49\bin\Debug\Syntax49.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax49\obj\Debug\Syntax49.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Syntax\Syntax49\obj\Debug\Syntax49.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax49\obj\Debug\Syntax49.exe
+C:\Users\Jin\source\repos\Syntax\Syntax49\obj\Debug\Syntax49.pdb

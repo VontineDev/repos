@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\9498\bin\Debug\9498.exe.config
+C:\Workspace\Console\Syntax\9498\bin\Debug\9498.exe
+C:\Workspace\Console\Syntax\9498\bin\Debug\9498.pdb
+C:\Workspace\Console\Syntax\9498\obj\Debug\9498.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\9498\obj\Debug\9498.exe
+C:\Workspace\Console\Syntax\9498\obj\Debug\9498.pdb
+C:\Workspace\Console\Syntax\9498\bin\Debug\9498.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\9498\bin\Debug\9498.exe.lastcodeanalysissucceeded

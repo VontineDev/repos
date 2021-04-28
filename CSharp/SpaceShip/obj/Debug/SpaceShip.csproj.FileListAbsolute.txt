@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\SpaceShip\bin\Debug\SpaceShip.exe.config
+C:\Users\Jin\source\repos\SpaceShip\bin\Debug\SpaceShip.exe
+C:\Users\Jin\source\repos\SpaceShip\bin\Debug\SpaceShip.pdb
+C:\Users\Jin\source\repos\SpaceShip\obj\Debug\SpaceShip.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\SpaceShip\obj\Debug\SpaceShip.exe
+C:\Users\Jin\source\repos\SpaceShip\obj\Debug\SpaceShip.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\2869\bin\Debug\2869.exe.config
+C:\Users\Jin\source\repos\2869\bin\Debug\2869.exe
+C:\Users\Jin\source\repos\2869\bin\Debug\2869.pdb
+C:\Users\Jin\source\repos\2869\obj\Debug\2869.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\2869\obj\Debug\2869.exe
+C:\Users\Jin\source\repos\2869\obj\Debug\2869.pdb

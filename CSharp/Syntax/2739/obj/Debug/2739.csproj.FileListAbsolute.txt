@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\2739\bin\Debug\2739.exe.config
+C:\Workspace\Console\Syntax\2739\bin\Debug\2739.exe
+C:\Workspace\Console\Syntax\2739\bin\Debug\2739.pdb
+C:\Workspace\Console\Syntax\2739\obj\Debug\2739.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\2739\obj\Debug\2739.exe
+C:\Workspace\Console\Syntax\2739\obj\Debug\2739.pdb
+C:\Workspace\Console\Syntax\2739\bin\Debug\2739.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\2739\bin\Debug\2739.exe.lastcodeanalysissucceeded

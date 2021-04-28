@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\2884\bin\Debug\2884.exe.config
+C:\Workspace\Console\Syntax\2884\bin\Debug\2884.exe
+C:\Workspace\Console\Syntax\2884\bin\Debug\2884.pdb
+C:\Workspace\Console\Syntax\2884\obj\Debug\2884.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\2884\obj\Debug\2884.exe
+C:\Workspace\Console\Syntax\2884\obj\Debug\2884.pdb
+C:\Workspace\Console\Syntax\2884\bin\Debug\2884.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\2884\bin\Debug\2884.exe.lastcodeanalysissucceeded

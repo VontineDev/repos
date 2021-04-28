@@ -1,0 +1,12 @@
+C:\Workspace\Console\Syntax\Syntax36\bin\Debug\Syntax36.exe.config
+C:\Workspace\Console\Syntax\Syntax36\bin\Debug\Syntax36.exe
+C:\Workspace\Console\Syntax\Syntax36\bin\Debug\Syntax36.pdb
+C:\Workspace\Console\Syntax\Syntax36\obj\Debug\Syntax36.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax36\obj\Debug\Syntax36.exe
+C:\Workspace\Console\Syntax\Syntax36\obj\Debug\Syntax36.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax36\bin\Debug\Syntax36.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax36\bin\Debug\Syntax36.exe
+C:\Users\Jin\source\repos\Syntax\Syntax36\bin\Debug\Syntax36.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax36\obj\Debug\Syntax36.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax36\obj\Debug\Syntax36.exe
+C:\Users\Jin\source\repos\Syntax\Syntax36\obj\Debug\Syntax36.pdb

@@ -1,0 +1,13 @@
+C:\Workspace\Console\Syntax\Syntax50\bin\Debug\Syntax50.exe.config
+C:\Workspace\Console\Syntax\Syntax50\bin\Debug\Syntax50.exe
+C:\Workspace\Console\Syntax\Syntax50\bin\Debug\Syntax50.pdb
+C:\Workspace\Console\Syntax\Syntax50\obj\Debug\Syntax50.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax50\obj\Debug\Syntax50.exe
+C:\Workspace\Console\Syntax\Syntax50\obj\Debug\Syntax50.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax50\bin\Debug\Syntax50.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax50\bin\Debug\Syntax50.exe
+C:\Users\Jin\source\repos\Syntax\Syntax50\bin\Debug\Syntax50.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax50\obj\Debug\Syntax50.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Syntax\Syntax50\obj\Debug\Syntax50.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax50\obj\Debug\Syntax50.exe
+C:\Users\Jin\source\repos\Syntax\Syntax50\obj\Debug\Syntax50.pdb

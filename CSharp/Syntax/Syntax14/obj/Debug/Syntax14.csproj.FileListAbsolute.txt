@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\Syntax14\bin\Debug\Syntax14.exe.config
+C:\Workspace\Console\Syntax\Syntax14\bin\Debug\Syntax14.exe
+C:\Workspace\Console\Syntax\Syntax14\bin\Debug\Syntax14.pdb
+C:\Workspace\Console\Syntax\Syntax14\obj\Debug\Syntax14.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax14\obj\Debug\Syntax14.exe
+C:\Workspace\Console\Syntax\Syntax14\obj\Debug\Syntax14.pdb
+C:\Workspace\Console\Syntax\Syntax14\bin\Debug\Syntax14.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\Syntax14\bin\Debug\Syntax14.exe.lastcodeanalysissucceeded

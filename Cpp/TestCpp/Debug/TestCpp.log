@@ -1,0 +1,3 @@
+﻿  TestCpp.cpp
+C:\Users\Jin\source\repos\TestCpp\TestCpp.cpp(71,2): warning C4091: 'static ': 변수를 선언하지 않으면 'Maze' 왼쪽은 무시됩니다.
+  TestCpp.vcxproj -> C:\Users\Jin\source\repos\TestCpp\Debug\TestCpp.exe

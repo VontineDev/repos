@@ -1,0 +1,2 @@
+D:\repos\kakao_2020_demoTest\Debug\kakao_2020_demoTest.exe
+D:\repos\kakao_2020_demoTest\Debug\kakao_2020_demoTest.pdb

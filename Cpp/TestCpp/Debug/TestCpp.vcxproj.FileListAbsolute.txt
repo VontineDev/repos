@@ -1,0 +1,2 @@
+C:\Users\Jin\source\repos\TestCpp\Debug\TestCpp.exe
+C:\Users\Jin\source\repos\TestCpp\Debug\TestCpp.pdb

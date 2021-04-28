@@ -1,0 +1,12 @@
+D:\repos\ch6_NamedParameter\bin\Debug\netcoreapp3.1\ch6_NamedParameter.exe
+D:\repos\ch6_NamedParameter\bin\Debug\netcoreapp3.1\ch6_NamedParameter.deps.json
+D:\repos\ch6_NamedParameter\bin\Debug\netcoreapp3.1\ch6_NamedParameter.runtimeconfig.json
+D:\repos\ch6_NamedParameter\bin\Debug\netcoreapp3.1\ch6_NamedParameter.runtimeconfig.dev.json
+D:\repos\ch6_NamedParameter\bin\Debug\netcoreapp3.1\ch6_NamedParameter.dll
+D:\repos\ch6_NamedParameter\bin\Debug\netcoreapp3.1\ch6_NamedParameter.pdb
+D:\repos\ch6_NamedParameter\obj\Debug\netcoreapp3.1\ch6_NamedParameter.AssemblyInfoInputs.cache
+D:\repos\ch6_NamedParameter\obj\Debug\netcoreapp3.1\ch6_NamedParameter.AssemblyInfo.cs
+D:\repos\ch6_NamedParameter\obj\Debug\netcoreapp3.1\ch6_NamedParameter.csproj.CoreCompileInputs.cache
+D:\repos\ch6_NamedParameter\obj\Debug\netcoreapp3.1\ch6_NamedParameter.dll
+D:\repos\ch6_NamedParameter\obj\Debug\netcoreapp3.1\ch6_NamedParameter.pdb
+D:\repos\ch6_NamedParameter\obj\Debug\netcoreapp3.1\ch6_NamedParameter.genruntimeconfig.cache

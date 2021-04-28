@@ -1,0 +1,2 @@
+D:\repos\kakaoTest01\Debug\kakaoTest01.exe
+D:\repos\kakaoTest01\Debug\kakaoTest01.pdb

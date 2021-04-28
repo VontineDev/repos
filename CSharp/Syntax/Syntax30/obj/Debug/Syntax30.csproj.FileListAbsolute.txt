@@ -1,0 +1,14 @@
+C:\Workspace\Console\Syntax\Syntax30\bin\Debug\Syntax30.exe.config
+C:\Workspace\Console\Syntax\Syntax30\bin\Debug\Syntax30.exe
+C:\Workspace\Console\Syntax\Syntax30\bin\Debug\Syntax30.pdb
+C:\Workspace\Console\Syntax\Syntax30\obj\Debug\Syntax30.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax30\obj\Debug\Syntax30.exe
+C:\Workspace\Console\Syntax\Syntax30\obj\Debug\Syntax30.pdb
+C:\Workspace\Console\Syntax\Syntax30\obj\Debug\Syntax30.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Syntax\Syntax30\bin\Debug\Syntax30.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax30\bin\Debug\Syntax30.exe
+C:\Users\Jin\source\repos\Syntax\Syntax30\bin\Debug\Syntax30.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax30\obj\Debug\Syntax30.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Syntax\Syntax30\obj\Debug\Syntax30.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax30\obj\Debug\Syntax30.exe
+C:\Users\Jin\source\repos\Syntax\Syntax30\obj\Debug\Syntax30.pdb

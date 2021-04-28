@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\10952\bin\Debug\10952.exe.config
+C:\Workspace\Console\Syntax\10952\bin\Debug\10952.exe
+C:\Workspace\Console\Syntax\10952\bin\Debug\10952.pdb
+C:\Workspace\Console\Syntax\10952\obj\Debug\10952.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\10952\obj\Debug\10952.exe
+C:\Workspace\Console\Syntax\10952\obj\Debug\10952.pdb
+C:\Workspace\Console\Syntax\10952\bin\Debug\10952.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\10952\bin\Debug\10952.exe.lastcodeanalysissucceeded

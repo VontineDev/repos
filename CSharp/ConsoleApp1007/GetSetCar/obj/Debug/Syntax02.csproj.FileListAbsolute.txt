@@ -1,0 +1,7 @@
+C:\Workspace\ConsoleApp1007\Syntax02\bin\Debug\Syntax02.exe.config
+C:\Workspace\ConsoleApp1007\Syntax02\bin\Debug\Syntax02.exe
+C:\Workspace\ConsoleApp1007\Syntax02\bin\Debug\Syntax02.pdb
+C:\Workspace\ConsoleApp1007\Syntax02\obj\Debug\Syntax02.csprojAssemblyReference.cache
+C:\Workspace\ConsoleApp1007\Syntax02\obj\Debug\Syntax02.csproj.CoreCompileInputs.cache
+C:\Workspace\ConsoleApp1007\Syntax02\obj\Debug\Syntax02.exe
+C:\Workspace\ConsoleApp1007\Syntax02\obj\Debug\Syntax02.pdb

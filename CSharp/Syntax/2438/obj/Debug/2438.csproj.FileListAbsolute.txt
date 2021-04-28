@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\2438\bin\Debug\2438.exe.config
+C:\Workspace\Console\Syntax\2438\bin\Debug\2438.exe
+C:\Workspace\Console\Syntax\2438\bin\Debug\2438.pdb
+C:\Workspace\Console\Syntax\2438\obj\Debug\2438.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\2438\obj\Debug\2438.exe
+C:\Workspace\Console\Syntax\2438\obj\Debug\2438.pdb
+C:\Workspace\Console\Syntax\2438\bin\Debug\2438.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\2438\bin\Debug\2438.exe.lastcodeanalysissucceeded

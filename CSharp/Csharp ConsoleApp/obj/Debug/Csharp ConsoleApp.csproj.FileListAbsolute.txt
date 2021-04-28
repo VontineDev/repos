@@ -1,0 +1,7 @@
+C:\Users\Jin\source\repos\Csharp ConsoleApp\bin\Debug\Csharp ConsoleApp.exe.config
+C:\Users\Jin\source\repos\Csharp ConsoleApp\bin\Debug\Csharp ConsoleApp.exe
+C:\Users\Jin\source\repos\Csharp ConsoleApp\bin\Debug\Csharp ConsoleApp.pdb
+C:\Users\Jin\source\repos\Csharp ConsoleApp\obj\Debug\Csharp ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Csharp ConsoleApp\obj\Debug\Csharp ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Csharp ConsoleApp\obj\Debug\Csharp ConsoleApp.exe
+C:\Users\Jin\source\repos\Csharp ConsoleApp\obj\Debug\Csharp ConsoleApp.pdb

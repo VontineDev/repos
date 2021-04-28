@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\2750_using insertion\bin\Debug\2750_using insertion.exe.config
+C:\Users\Jin\source\repos\2750_using insertion\bin\Debug\2750_using insertion.exe
+C:\Users\Jin\source\repos\2750_using insertion\bin\Debug\2750_using insertion.pdb
+C:\Users\Jin\source\repos\2750_using insertion\obj\Debug\2750_using insertion.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\2750_using insertion\obj\Debug\2750_using insertion.exe
+C:\Users\Jin\source\repos\2750_using insertion\obj\Debug\2750_using insertion.pdb

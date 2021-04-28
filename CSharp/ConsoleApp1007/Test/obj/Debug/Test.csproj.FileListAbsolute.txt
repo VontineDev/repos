@@ -1,0 +1,7 @@
+C:\Users\Jin\source\repos\ConsoleApp1007\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\ConsoleApp1007\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\ConsoleApp1007\Test\bin\Debug\Test.exe.config
+C:\Users\Jin\source\repos\ConsoleApp1007\Test\bin\Debug\Test.exe
+C:\Users\Jin\source\repos\ConsoleApp1007\Test\bin\Debug\Test.pdb
+C:\Users\Jin\source\repos\ConsoleApp1007\Test\obj\Debug\Test.exe
+C:\Users\Jin\source\repos\ConsoleApp1007\Test\obj\Debug\Test.pdb

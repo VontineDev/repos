@@ -1,0 +1,10 @@
+D:\repos\Database1\bin\Debug\Database1.dacpac
+D:\repos\Database1\bin\Debug\Database1.dll
+D:\repos\Database1\bin\Debug\Database1.pdb
+D:\repos\Database1\obj\Debug\Database1.sqlprojAssemblyReference.cache
+D:\repos\Database1\obj\Debug\Database1.dll
+D:\repos\Database1\obj\Debug\Database1.pdb
+D:\repos\Database1\obj\Debug\Model.xml
+D:\repos\Database1\obj\Debug\refactor.xml
+D:\repos\Database1\obj\Debug\postdeploy.sql
+D:\repos\Database1\obj\Debug\predeploy.sql

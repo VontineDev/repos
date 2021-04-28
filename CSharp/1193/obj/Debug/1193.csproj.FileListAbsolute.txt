@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\1193\bin\Debug\1193.exe.config
+C:\Users\Jin\source\repos\1193\bin\Debug\1193.exe
+C:\Users\Jin\source\repos\1193\bin\Debug\1193.pdb
+C:\Users\Jin\source\repos\1193\obj\Debug\1193.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\1193\obj\Debug\1193.exe
+C:\Users\Jin\source\repos\1193\obj\Debug\1193.pdb

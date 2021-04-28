@@ -1,0 +1,15 @@
+C:\Workspace\Console\Syntax\Syntax26\bin\Debug\Syntax26.exe.config
+C:\Workspace\Console\Syntax\Syntax26\bin\Debug\Syntax26.exe
+C:\Workspace\Console\Syntax\Syntax26\bin\Debug\Syntax26.pdb
+C:\Workspace\Console\Syntax\Syntax26\obj\Debug\Syntax26.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax26\obj\Debug\Syntax26.exe
+C:\Workspace\Console\Syntax\Syntax26\obj\Debug\Syntax26.pdb
+C:\Workspace\Console\Syntax\Syntax26\bin\Debug\Syntax26.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\Syntax26\bin\Debug\Syntax26.exe.lastcodeanalysissucceeded
+C:\Users\Jin\source\repos\Syntax\Syntax26\bin\Debug\Syntax26.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax26\bin\Debug\Syntax26.exe
+C:\Users\Jin\source\repos\Syntax\Syntax26\bin\Debug\Syntax26.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax26\obj\Debug\Syntax26.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Syntax\Syntax26\obj\Debug\Syntax26.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax26\obj\Debug\Syntax26.exe
+C:\Users\Jin\source\repos\Syntax\Syntax26\obj\Debug\Syntax26.pdb

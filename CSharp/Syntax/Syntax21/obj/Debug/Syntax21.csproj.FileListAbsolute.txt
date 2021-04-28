@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\Syntax21\bin\Debug\Syntax21.exe.config
+C:\Workspace\Console\Syntax\Syntax21\bin\Debug\Syntax21.exe
+C:\Workspace\Console\Syntax\Syntax21\bin\Debug\Syntax21.pdb
+C:\Workspace\Console\Syntax\Syntax21\obj\Debug\Syntax21.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax21\obj\Debug\Syntax21.exe
+C:\Workspace\Console\Syntax\Syntax21\obj\Debug\Syntax21.pdb
+C:\Workspace\Console\Syntax\Syntax21\bin\Debug\Syntax21.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\Syntax21\bin\Debug\Syntax21.exe.lastcodeanalysissucceeded

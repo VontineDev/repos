@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\ItemBox\bin\Debug\ItemBox.exe.config
+C:\Users\Jin\source\repos\ItemBox\bin\Debug\ItemBox.exe
+C:\Users\Jin\source\repos\ItemBox\bin\Debug\ItemBox.pdb
+C:\Users\Jin\source\repos\ItemBox\obj\Debug\ItemBox.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\ItemBox\obj\Debug\ItemBox.exe
+C:\Users\Jin\source\repos\ItemBox\obj\Debug\ItemBox.pdb

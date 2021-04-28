@@ -1,0 +1,12 @@
+C:\Workspace\Console\Syntax\Syntax42\bin\Debug\Syntax42.exe.config
+C:\Workspace\Console\Syntax\Syntax42\bin\Debug\Syntax42.exe
+C:\Workspace\Console\Syntax\Syntax42\bin\Debug\Syntax42.pdb
+C:\Workspace\Console\Syntax\Syntax42\obj\Debug\Syntax42.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax42\obj\Debug\Syntax42.exe
+C:\Workspace\Console\Syntax\Syntax42\obj\Debug\Syntax42.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax42\bin\Debug\Syntax42.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax42\bin\Debug\Syntax42.exe
+C:\Users\Jin\source\repos\Syntax\Syntax42\bin\Debug\Syntax42.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax42\obj\Debug\Syntax42.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax42\obj\Debug\Syntax42.exe
+C:\Users\Jin\source\repos\Syntax\Syntax42\obj\Debug\Syntax42.pdb

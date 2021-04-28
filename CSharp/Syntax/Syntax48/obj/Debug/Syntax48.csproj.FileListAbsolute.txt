@@ -1,0 +1,14 @@
+C:\Workspace\Console\Syntax\Syntax48\bin\Debug\Syntax48.exe.config
+C:\Workspace\Console\Syntax\Syntax48\bin\Debug\Syntax48.exe
+C:\Workspace\Console\Syntax\Syntax48\bin\Debug\Syntax48.pdb
+C:\Workspace\Console\Syntax\Syntax48\obj\Debug\Syntax48.csprojAssemblyReference.cache
+C:\Workspace\Console\Syntax\Syntax48\obj\Debug\Syntax48.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax48\obj\Debug\Syntax48.exe
+C:\Workspace\Console\Syntax\Syntax48\obj\Debug\Syntax48.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax48\bin\Debug\Syntax48.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax48\bin\Debug\Syntax48.exe
+C:\Users\Jin\source\repos\Syntax\Syntax48\bin\Debug\Syntax48.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax48\obj\Debug\Syntax48.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Syntax\Syntax48\obj\Debug\Syntax48.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax48\obj\Debug\Syntax48.exe
+C:\Users\Jin\source\repos\Syntax\Syntax48\obj\Debug\Syntax48.pdb

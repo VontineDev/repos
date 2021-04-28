@@ -1,0 +1,7 @@
+C:\Workspace\ConsoleApp1007\StarCraft\bin\Debug\StarCraft.exe.config
+C:\Workspace\ConsoleApp1007\StarCraft\bin\Debug\StarCraft.exe
+C:\Workspace\ConsoleApp1007\StarCraft\bin\Debug\StarCraft.pdb
+C:\Workspace\ConsoleApp1007\StarCraft\obj\Debug\StarCraft.csprojAssemblyReference.cache
+C:\Workspace\ConsoleApp1007\StarCraft\obj\Debug\StarCraft.csproj.CoreCompileInputs.cache
+C:\Workspace\ConsoleApp1007\StarCraft\obj\Debug\StarCraft.exe
+C:\Workspace\ConsoleApp1007\StarCraft\obj\Debug\StarCraft.pdb

@@ -1,0 +1,12 @@
+D:\repos\LocalFuction\bin\Debug\netcoreapp3.1\LocalFuction.exe
+D:\repos\LocalFuction\bin\Debug\netcoreapp3.1\LocalFuction.deps.json
+D:\repos\LocalFuction\bin\Debug\netcoreapp3.1\LocalFuction.runtimeconfig.json
+D:\repos\LocalFuction\bin\Debug\netcoreapp3.1\LocalFuction.runtimeconfig.dev.json
+D:\repos\LocalFuction\bin\Debug\netcoreapp3.1\LocalFuction.dll
+D:\repos\LocalFuction\bin\Debug\netcoreapp3.1\LocalFuction.pdb
+D:\repos\LocalFuction\obj\Debug\netcoreapp3.1\LocalFuction.AssemblyInfoInputs.cache
+D:\repos\LocalFuction\obj\Debug\netcoreapp3.1\LocalFuction.AssemblyInfo.cs
+D:\repos\LocalFuction\obj\Debug\netcoreapp3.1\LocalFuction.csproj.CoreCompileInputs.cache
+D:\repos\LocalFuction\obj\Debug\netcoreapp3.1\LocalFuction.dll
+D:\repos\LocalFuction\obj\Debug\netcoreapp3.1\LocalFuction.pdb
+D:\repos\LocalFuction\obj\Debug\netcoreapp3.1\LocalFuction.genruntimeconfig.cache

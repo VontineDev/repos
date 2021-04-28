@@ -1,0 +1,7 @@
+C:\Users\Jin\source\repos\Character\bin\Debug\Character.exe.config
+C:\Users\Jin\source\repos\Character\bin\Debug\Character.exe
+C:\Users\Jin\source\repos\Character\bin\Debug\Character.pdb
+C:\Users\Jin\source\repos\Character\obj\Debug\Character.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Character\obj\Debug\Character.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Character\obj\Debug\Character.exe
+C:\Users\Jin\source\repos\Character\obj\Debug\Character.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\10809\bin\Debug\10809.exe.config
+C:\Users\Jin\source\repos\10809\bin\Debug\10809.exe
+C:\Users\Jin\source\repos\10809\bin\Debug\10809.pdb
+C:\Users\Jin\source\repos\10809\obj\Debug\10809.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\10809\obj\Debug\10809.exe
+C:\Users\Jin\source\repos\10809\obj\Debug\10809.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\2750\bin\Debug\2750.exe.config
+C:\Users\Jin\source\repos\2750\bin\Debug\2750.exe
+C:\Users\Jin\source\repos\2750\bin\Debug\2750.pdb
+C:\Users\Jin\source\repos\2750\obj\Debug\2750.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\2750\obj\Debug\2750.exe
+C:\Users\Jin\source\repos\2750\obj\Debug\2750.pdb

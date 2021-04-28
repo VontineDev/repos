@@ -1,0 +1,12 @@
+C:\Workspace\Console\Syntax\Syntax34\bin\Debug\Syntax34.exe.config
+C:\Workspace\Console\Syntax\Syntax34\bin\Debug\Syntax34.exe
+C:\Workspace\Console\Syntax\Syntax34\bin\Debug\Syntax34.pdb
+C:\Workspace\Console\Syntax\Syntax34\obj\Debug\Syntax34.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax34\obj\Debug\Syntax34.exe
+C:\Workspace\Console\Syntax\Syntax34\obj\Debug\Syntax34.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax34\bin\Debug\Syntax34.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax34\bin\Debug\Syntax34.exe
+C:\Users\Jin\source\repos\Syntax\Syntax34\bin\Debug\Syntax34.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax34\obj\Debug\Syntax34.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax34\obj\Debug\Syntax34.exe
+C:\Users\Jin\source\repos\Syntax\Syntax34\obj\Debug\Syntax34.pdb

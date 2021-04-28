@@ -1,0 +1,12 @@
+C:\Workspace\Console\Syntax\Syntax43\bin\Debug\Syntax43.exe.config
+C:\Workspace\Console\Syntax\Syntax43\bin\Debug\Syntax43.exe
+C:\Workspace\Console\Syntax\Syntax43\bin\Debug\Syntax43.pdb
+C:\Workspace\Console\Syntax\Syntax43\obj\Debug\Syntax43.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax43\obj\Debug\Syntax43.exe
+C:\Workspace\Console\Syntax\Syntax43\obj\Debug\Syntax43.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax43\bin\Debug\Syntax43.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax43\bin\Debug\Syntax43.exe
+C:\Users\Jin\source\repos\Syntax\Syntax43\bin\Debug\Syntax43.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax43\obj\Debug\Syntax43.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax43\obj\Debug\Syntax43.exe
+C:\Users\Jin\source\repos\Syntax\Syntax43\obj\Debug\Syntax43.pdb

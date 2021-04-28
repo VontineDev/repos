@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\Syntax04\bin\Debug\Syntax04.exe.config
+C:\Workspace\Console\Syntax\Syntax04\bin\Debug\Syntax04.exe
+C:\Workspace\Console\Syntax\Syntax04\bin\Debug\Syntax04.pdb
+C:\Workspace\Console\Syntax\Syntax04\obj\Debug\Syntax04.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax04\obj\Debug\Syntax04.exe
+C:\Workspace\Console\Syntax\Syntax04\obj\Debug\Syntax04.pdb
+C:\Workspace\Console\Syntax\Syntax04\bin\Debug\Syntax04.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\Syntax04\bin\Debug\Syntax04.exe.lastcodeanalysissucceeded

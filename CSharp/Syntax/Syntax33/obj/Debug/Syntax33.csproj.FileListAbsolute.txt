@@ -1,0 +1,12 @@
+C:\Workspace\Console\Syntax\Syntax33\bin\Debug\Syntax33.exe.config
+C:\Workspace\Console\Syntax\Syntax33\bin\Debug\Syntax33.exe
+C:\Workspace\Console\Syntax\Syntax33\bin\Debug\Syntax33.pdb
+C:\Workspace\Console\Syntax\Syntax33\obj\Debug\Syntax33.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax33\obj\Debug\Syntax33.exe
+C:\Workspace\Console\Syntax\Syntax33\obj\Debug\Syntax33.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax33\bin\Debug\Syntax33.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax33\bin\Debug\Syntax33.exe
+C:\Users\Jin\source\repos\Syntax\Syntax33\bin\Debug\Syntax33.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax33\obj\Debug\Syntax33.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax33\obj\Debug\Syntax33.exe
+C:\Users\Jin\source\repos\Syntax\Syntax33\obj\Debug\Syntax33.pdb

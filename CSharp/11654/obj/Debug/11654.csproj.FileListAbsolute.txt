@@ -1,0 +1,5 @@
+C:\Users\Jin\source\repos\11654\bin\Debug\11654.exe.config
+C:\Users\Jin\source\repos\11654\bin\Debug\11654.exe
+C:\Users\Jin\source\repos\11654\bin\Debug\11654.pdb
+C:\Users\Jin\source\repos\11654\obj\Debug\11654.exe
+C:\Users\Jin\source\repos\11654\obj\Debug\11654.pdb

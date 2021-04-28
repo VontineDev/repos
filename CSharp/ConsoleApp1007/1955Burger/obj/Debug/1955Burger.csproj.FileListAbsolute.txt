@@ -1,0 +1,7 @@
+C:\Workspace\ConsoleApp1007\1955Burger\bin\Debug\1955Burger.exe.config
+C:\Workspace\ConsoleApp1007\1955Burger\bin\Debug\1955Burger.exe
+C:\Workspace\ConsoleApp1007\1955Burger\bin\Debug\1955Burger.pdb
+C:\Workspace\ConsoleApp1007\1955Burger\obj\Debug\1955Burger.csprojAssemblyReference.cache
+C:\Workspace\ConsoleApp1007\1955Burger\obj\Debug\1955Burger.csproj.CoreCompileInputs.cache
+C:\Workspace\ConsoleApp1007\1955Burger\obj\Debug\1955Burger.exe
+C:\Workspace\ConsoleApp1007\1955Burger\obj\Debug\1955Burger.pdb

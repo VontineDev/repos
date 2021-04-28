@@ -1,0 +1,14 @@
+C:\Workspace\Console\Syntax\Synatax41\bin\Debug\Synatax41.exe.config
+C:\Workspace\Console\Syntax\Synatax41\bin\Debug\Synatax41.exe
+C:\Workspace\Console\Syntax\Synatax41\bin\Debug\Synatax41.pdb
+C:\Workspace\Console\Syntax\Synatax41\obj\Debug\Syntax41.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Synatax41\obj\Debug\Synatax41.exe
+C:\Workspace\Console\Syntax\Synatax41\obj\Debug\Synatax41.pdb
+C:\Workspace\Console\Syntax\Synatax41\obj\Debug\Syntax41.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Syntax\Synatax41\bin\Debug\Synatax41.exe.config
+C:\Users\Jin\source\repos\Syntax\Synatax41\bin\Debug\Synatax41.exe
+C:\Users\Jin\source\repos\Syntax\Synatax41\bin\Debug\Synatax41.pdb
+C:\Users\Jin\source\repos\Syntax\Synatax41\obj\Debug\Syntax41.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Syntax\Synatax41\obj\Debug\Syntax41.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Synatax41\obj\Debug\Synatax41.exe
+C:\Users\Jin\source\repos\Syntax\Synatax41\obj\Debug\Synatax41.pdb

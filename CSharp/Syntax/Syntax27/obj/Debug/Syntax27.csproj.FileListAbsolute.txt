@@ -1,0 +1,13 @@
+C:\Workspace\Console\Syntax\Syntax27\obj\Debug\Syntax27.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax27\bin\Debug\Syntax27.exe.config
+C:\Workspace\Console\Syntax\Syntax27\bin\Debug\Syntax27.exe
+C:\Workspace\Console\Syntax\Syntax27\bin\Debug\Syntax27.pdb
+C:\Workspace\Console\Syntax\Syntax27\obj\Debug\Syntax27.exe
+C:\Workspace\Console\Syntax\Syntax27\obj\Debug\Syntax27.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax27\bin\Debug\Syntax27.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax27\bin\Debug\Syntax27.exe
+C:\Users\Jin\source\repos\Syntax\Syntax27\bin\Debug\Syntax27.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax27\obj\Debug\Syntax27.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Syntax\Syntax27\obj\Debug\Syntax27.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax27\obj\Debug\Syntax27.exe
+C:\Users\Jin\source\repos\Syntax\Syntax27\obj\Debug\Syntax27.pdb

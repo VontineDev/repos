@@ -1,0 +1,6 @@
+﻿  kakaoTest01.cpp
+D:\repos\kakaoTest01\kakaoTest01.cpp(14,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\repos\kakaoTest01\kakaoTest01.cpp(19,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\repos\kakaoTest01\kakaoTest01.cpp(35,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\repos\kakaoTest01\kakaoTest01.cpp(37,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  kakaoTest01.vcxproj -> D:\repos\kakaoTest01\Debug\kakaoTest01.exe

@@ -1,0 +1,9 @@
+C:\Users\Jin\source\repos\ConsoleApp0112_JsonConstruct\bin\Debug\ConsoleApp0112_JsonConstruct.exe.config
+C:\Users\Jin\source\repos\ConsoleApp0112_JsonConstruct\bin\Debug\ConsoleApp0112_JsonConstruct.exe
+C:\Users\Jin\source\repos\ConsoleApp0112_JsonConstruct\bin\Debug\ConsoleApp0112_JsonConstruct.pdb
+C:\Users\Jin\source\repos\ConsoleApp0112_JsonConstruct\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jin\source\repos\ConsoleApp0112_JsonConstruct\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jin\source\repos\ConsoleApp0112_JsonConstruct\obj\Debug\ConsoleApp0112_JsonConstruct.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\ConsoleApp0112_JsonConstruct\obj\Debug\ConsoleApp0112_JsonConstruct.csproj.CopyComplete
+C:\Users\Jin\source\repos\ConsoleApp0112_JsonConstruct\obj\Debug\ConsoleApp0112_JsonConstruct.exe
+C:\Users\Jin\source\repos\ConsoleApp0112_JsonConstruct\obj\Debug\ConsoleApp0112_JsonConstruct.pdb

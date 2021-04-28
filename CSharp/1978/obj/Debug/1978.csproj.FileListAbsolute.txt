@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\1978\bin\Debug\1978.exe.config
+C:\Users\Jin\source\repos\1978\bin\Debug\1978.exe
+C:\Users\Jin\source\repos\1978\bin\Debug\1978.pdb
+C:\Users\Jin\source\repos\1978\obj\Debug\1978.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\1978\obj\Debug\1978.exe
+C:\Users\Jin\source\repos\1978\obj\Debug\1978.pdb

@@ -1,0 +1,13 @@
+D:\repos\ch6_RefReturn\bin\Debug\netcoreapp3.1\ch6_RefReturn.exe
+D:\repos\ch6_RefReturn\bin\Debug\netcoreapp3.1\ch6_RefReturn.deps.json
+D:\repos\ch6_RefReturn\bin\Debug\netcoreapp3.1\ch6_RefReturn.runtimeconfig.json
+D:\repos\ch6_RefReturn\bin\Debug\netcoreapp3.1\ch6_RefReturn.runtimeconfig.dev.json
+D:\repos\ch6_RefReturn\bin\Debug\netcoreapp3.1\ch6_RefReturn.dll
+D:\repos\ch6_RefReturn\bin\Debug\netcoreapp3.1\ch6_RefReturn.pdb
+D:\repos\ch6_RefReturn\obj\Debug\netcoreapp3.1\ch6_RefReturn.csprojAssemblyReference.cache
+D:\repos\ch6_RefReturn\obj\Debug\netcoreapp3.1\ch6_RefReturn.AssemblyInfoInputs.cache
+D:\repos\ch6_RefReturn\obj\Debug\netcoreapp3.1\ch6_RefReturn.AssemblyInfo.cs
+D:\repos\ch6_RefReturn\obj\Debug\netcoreapp3.1\ch6_RefReturn.csproj.CoreCompileInputs.cache
+D:\repos\ch6_RefReturn\obj\Debug\netcoreapp3.1\ch6_RefReturn.dll
+D:\repos\ch6_RefReturn\obj\Debug\netcoreapp3.1\ch6_RefReturn.pdb
+D:\repos\ch6_RefReturn\obj\Debug\netcoreapp3.1\ch6_RefReturn.genruntimeconfig.cache

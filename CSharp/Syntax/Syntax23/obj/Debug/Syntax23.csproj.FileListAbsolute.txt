@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\Syntax23\bin\Debug\Syntax23.exe.config
+C:\Workspace\Console\Syntax\Syntax23\bin\Debug\Syntax23.exe
+C:\Workspace\Console\Syntax\Syntax23\bin\Debug\Syntax23.pdb
+C:\Workspace\Console\Syntax\Syntax23\obj\Debug\Syntax23.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax23\obj\Debug\Syntax23.exe
+C:\Workspace\Console\Syntax\Syntax23\obj\Debug\Syntax23.pdb
+C:\Workspace\Console\Syntax\Syntax23\bin\Debug\Syntax23.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\Syntax23\bin\Debug\Syntax23.exe.lastcodeanalysissucceeded

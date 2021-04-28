@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\Syntax22\bin\Debug\Syntax22.exe.config
+C:\Workspace\Console\Syntax\Syntax22\bin\Debug\Syntax22.exe
+C:\Workspace\Console\Syntax\Syntax22\bin\Debug\Syntax22.pdb
+C:\Workspace\Console\Syntax\Syntax22\obj\Debug\Syntax22.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax22\obj\Debug\Syntax22.exe
+C:\Workspace\Console\Syntax\Syntax22\obj\Debug\Syntax22.pdb
+C:\Workspace\Console\Syntax\Syntax22\bin\Debug\Syntax22.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\Syntax22\bin\Debug\Syntax22.exe.lastcodeanalysissucceeded

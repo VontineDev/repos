@@ -1,0 +1,14 @@
+C:\Workspace\Console\Syntax\Syntax28\bin\Debug\Syntax28.exe.config
+C:\Workspace\Console\Syntax\Syntax28\bin\Debug\Syntax28.exe
+C:\Workspace\Console\Syntax\Syntax28\bin\Debug\Syntax28.pdb
+C:\Workspace\Console\Syntax\Syntax28\obj\Debug\Syntax28.csprojAssemblyReference.cache
+C:\Workspace\Console\Syntax\Syntax28\obj\Debug\Syntax28.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax28\obj\Debug\Syntax28.exe
+C:\Workspace\Console\Syntax\Syntax28\obj\Debug\Syntax28.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax28\bin\Debug\Syntax28.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax28\bin\Debug\Syntax28.exe
+C:\Users\Jin\source\repos\Syntax\Syntax28\bin\Debug\Syntax28.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax28\obj\Debug\Syntax28.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Syntax\Syntax28\obj\Debug\Syntax28.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax28\obj\Debug\Syntax28.exe
+C:\Users\Jin\source\repos\Syntax\Syntax28\obj\Debug\Syntax28.pdb

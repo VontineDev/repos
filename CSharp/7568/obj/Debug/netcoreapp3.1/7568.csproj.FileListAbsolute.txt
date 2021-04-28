@@ -1,0 +1,13 @@
+D:\repos\7568\bin\Debug\netcoreapp3.1\7568.exe
+D:\repos\7568\bin\Debug\netcoreapp3.1\7568.deps.json
+D:\repos\7568\bin\Debug\netcoreapp3.1\7568.runtimeconfig.json
+D:\repos\7568\bin\Debug\netcoreapp3.1\7568.runtimeconfig.dev.json
+D:\repos\7568\bin\Debug\netcoreapp3.1\7568.dll
+D:\repos\7568\bin\Debug\netcoreapp3.1\7568.pdb
+D:\repos\7568\obj\Debug\netcoreapp3.1\7568.csprojAssemblyReference.cache
+D:\repos\7568\obj\Debug\netcoreapp3.1\7568.AssemblyInfoInputs.cache
+D:\repos\7568\obj\Debug\netcoreapp3.1\7568.AssemblyInfo.cs
+D:\repos\7568\obj\Debug\netcoreapp3.1\7568.csproj.CoreCompileInputs.cache
+D:\repos\7568\obj\Debug\netcoreapp3.1\7568.dll
+D:\repos\7568\obj\Debug\netcoreapp3.1\7568.pdb
+D:\repos\7568\obj\Debug\netcoreapp3.1\7568.genruntimeconfig.cache

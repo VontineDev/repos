@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\Console1017_home\bin\Debug\Console1017_home.exe.config
+C:\Users\Jin\source\repos\Console1017_home\bin\Debug\Console1017_home.exe
+C:\Users\Jin\source\repos\Console1017_home\bin\Debug\Console1017_home.pdb
+C:\Users\Jin\source\repos\Console1017_home\obj\Debug\Console1017_home.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Console1017_home\obj\Debug\Console1017_home.exe
+C:\Users\Jin\source\repos\Console1017_home\obj\Debug\Console1017_home.pdb

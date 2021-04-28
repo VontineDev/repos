@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\Gun\obj\Debug\Gun.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Gun\bin\Debug\Gun.exe.config
+C:\Users\Jin\source\repos\Gun\bin\Debug\Gun.exe
+C:\Users\Jin\source\repos\Gun\bin\Debug\Gun.pdb
+C:\Users\Jin\source\repos\Gun\obj\Debug\Gun.exe
+C:\Users\Jin\source\repos\Gun\obj\Debug\Gun.pdb

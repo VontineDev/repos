@@ -1,0 +1,12 @@
+C:\Workspace\Console\Syntax\Syntax38\bin\Debug\Syntax38.exe.config
+C:\Workspace\Console\Syntax\Syntax38\bin\Debug\Syntax38.exe
+C:\Workspace\Console\Syntax\Syntax38\bin\Debug\Syntax38.pdb
+C:\Workspace\Console\Syntax\Syntax38\obj\Debug\Syntax38.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax38\obj\Debug\Syntax38.exe
+C:\Workspace\Console\Syntax\Syntax38\obj\Debug\Syntax38.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax38\bin\Debug\Syntax38.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax38\bin\Debug\Syntax38.exe
+C:\Users\Jin\source\repos\Syntax\Syntax38\bin\Debug\Syntax38.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax38\obj\Debug\Syntax38.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax38\obj\Debug\Syntax38.exe
+C:\Users\Jin\source\repos\Syntax\Syntax38\obj\Debug\Syntax38.pdb

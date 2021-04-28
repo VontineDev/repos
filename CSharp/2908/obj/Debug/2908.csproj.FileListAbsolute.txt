@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\2908\bin\Debug\2908.exe.config
+C:\Users\Jin\source\repos\2908\bin\Debug\2908.exe
+C:\Users\Jin\source\repos\2908\bin\Debug\2908.pdb
+C:\Users\Jin\source\repos\2908\obj\Debug\2908.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\2908\obj\Debug\2908.exe
+C:\Users\Jin\source\repos\2908\obj\Debug\2908.pdb

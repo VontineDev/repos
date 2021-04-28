@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\1773\bin\Debug\1773.exe.config
+C:\Users\Jin\source\repos\1773\bin\Debug\1773.exe
+C:\Users\Jin\source\repos\1773\bin\Debug\1773.pdb
+C:\Users\Jin\source\repos\1773\obj\Debug\1773.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\1773\obj\Debug\1773.exe
+C:\Users\Jin\source\repos\1773\obj\Debug\1773.pdb

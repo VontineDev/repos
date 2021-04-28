@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\10950\obj\Debug\10950.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\10950\bin\Debug\10950.exe.config
+C:\Workspace\Console\Syntax\10950\bin\Debug\10950.exe
+C:\Workspace\Console\Syntax\10950\bin\Debug\10950.pdb
+C:\Workspace\Console\Syntax\10950\obj\Debug\10950.exe
+C:\Workspace\Console\Syntax\10950\obj\Debug\10950.pdb
+C:\Workspace\Console\Syntax\10950\bin\Debug\10950.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\10950\bin\Debug\10950.exe.lastcodeanalysissucceeded

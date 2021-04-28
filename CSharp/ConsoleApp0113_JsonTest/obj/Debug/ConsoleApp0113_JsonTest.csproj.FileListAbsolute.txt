@@ -1,0 +1,9 @@
+C:\Users\Jin\source\repos\ConsoleApp0113_JsonTest\bin\Debug\ConsoleApp0113_JsonTest.exe.config
+C:\Users\Jin\source\repos\ConsoleApp0113_JsonTest\bin\Debug\ConsoleApp0113_JsonTest.exe
+C:\Users\Jin\source\repos\ConsoleApp0113_JsonTest\bin\Debug\ConsoleApp0113_JsonTest.pdb
+C:\Users\Jin\source\repos\ConsoleApp0113_JsonTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jin\source\repos\ConsoleApp0113_JsonTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jin\source\repos\ConsoleApp0113_JsonTest\obj\Debug\ConsoleApp0113_JsonTest.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\ConsoleApp0113_JsonTest\obj\Debug\ConsoleApp0113_JsonTest.csproj.CopyComplete
+C:\Users\Jin\source\repos\ConsoleApp0113_JsonTest\obj\Debug\ConsoleApp0113_JsonTest.exe
+C:\Users\Jin\source\repos\ConsoleApp0113_JsonTest\obj\Debug\ConsoleApp0113_JsonTest.pdb

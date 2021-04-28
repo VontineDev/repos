@@ -1,0 +1,13 @@
+D:\repos\ch6_UsingOut\bin\Debug\netcoreapp3.1\ch6_UsingOut.exe
+D:\repos\ch6_UsingOut\bin\Debug\netcoreapp3.1\ch6_UsingOut.deps.json
+D:\repos\ch6_UsingOut\bin\Debug\netcoreapp3.1\ch6_UsingOut.runtimeconfig.json
+D:\repos\ch6_UsingOut\bin\Debug\netcoreapp3.1\ch6_UsingOut.runtimeconfig.dev.json
+D:\repos\ch6_UsingOut\bin\Debug\netcoreapp3.1\ch6_UsingOut.dll
+D:\repos\ch6_UsingOut\bin\Debug\netcoreapp3.1\ch6_UsingOut.pdb
+D:\repos\ch6_UsingOut\obj\Debug\netcoreapp3.1\ch6_UsingOut.csprojAssemblyReference.cache
+D:\repos\ch6_UsingOut\obj\Debug\netcoreapp3.1\ch6_UsingOut.AssemblyInfoInputs.cache
+D:\repos\ch6_UsingOut\obj\Debug\netcoreapp3.1\ch6_UsingOut.AssemblyInfo.cs
+D:\repos\ch6_UsingOut\obj\Debug\netcoreapp3.1\ch6_UsingOut.csproj.CoreCompileInputs.cache
+D:\repos\ch6_UsingOut\obj\Debug\netcoreapp3.1\ch6_UsingOut.dll
+D:\repos\ch6_UsingOut\obj\Debug\netcoreapp3.1\ch6_UsingOut.pdb
+D:\repos\ch6_UsingOut\obj\Debug\netcoreapp3.1\ch6_UsingOut.genruntimeconfig.cache

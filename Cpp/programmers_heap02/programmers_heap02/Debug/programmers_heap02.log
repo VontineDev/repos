@@ -1,0 +1,4 @@
+﻿  programmers_heap02.cpp
+D:\repos\programmers_heap02\programmers_heap02\programmers_heap02.cpp(10,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\repos\programmers_heap02\programmers_heap02\programmers_heap02.cpp(15,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  programmers_heap02.vcxproj -> D:\repos\programmers_heap02\Debug\programmers_heap02.exe

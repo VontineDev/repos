@@ -1,0 +1,7 @@
+C:\Users\Jin\source\repos\ConsoleApp1007\ConsoleApp1007\obj\Debug\GateWay.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\ConsoleApp1007\ConsoleApp1007\obj\Debug\GateWay.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\ConsoleApp1007\ConsoleApp1007\bin\Debug\ConsoleApp1007.exe.config
+C:\Users\Jin\source\repos\ConsoleApp1007\ConsoleApp1007\bin\Debug\ConsoleApp1007.exe
+C:\Users\Jin\source\repos\ConsoleApp1007\ConsoleApp1007\bin\Debug\ConsoleApp1007.pdb
+C:\Users\Jin\source\repos\ConsoleApp1007\ConsoleApp1007\obj\Debug\ConsoleApp1007.exe
+C:\Users\Jin\source\repos\ConsoleApp1007\ConsoleApp1007\obj\Debug\ConsoleApp1007.pdb

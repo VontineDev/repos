@@ -1,0 +1,14 @@
+C:\Workspace\Console\Syntax\Syntax46\bin\Debug\Syntax46.exe.config
+C:\Workspace\Console\Syntax\Syntax46\bin\Debug\Syntax46.exe
+C:\Workspace\Console\Syntax\Syntax46\bin\Debug\Syntax46.pdb
+C:\Workspace\Console\Syntax\Syntax46\obj\Debug\Syntax46.csprojAssemblyReference.cache
+C:\Workspace\Console\Syntax\Syntax46\obj\Debug\Syntax46.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax46\obj\Debug\Syntax46.exe
+C:\Workspace\Console\Syntax\Syntax46\obj\Debug\Syntax46.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax46\bin\Debug\Syntax46.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax46\bin\Debug\Syntax46.exe
+C:\Users\Jin\source\repos\Syntax\Syntax46\bin\Debug\Syntax46.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax46\obj\Debug\Syntax46.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Syntax\Syntax46\obj\Debug\Syntax46.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax46\obj\Debug\Syntax46.exe
+C:\Users\Jin\source\repos\Syntax\Syntax46\obj\Debug\Syntax46.pdb

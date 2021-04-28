@@ -1,0 +1,12 @@
+C:\Workspace\Console\Syntax\Syntax39\bin\Debug\Syntax39.exe.config
+C:\Workspace\Console\Syntax\Syntax39\bin\Debug\Syntax39.exe
+C:\Workspace\Console\Syntax\Syntax39\bin\Debug\Syntax39.pdb
+C:\Workspace\Console\Syntax\Syntax39\obj\Debug\Syntax39.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax39\obj\Debug\Syntax39.exe
+C:\Workspace\Console\Syntax\Syntax39\obj\Debug\Syntax39.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax39\bin\Debug\Syntax39.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax39\bin\Debug\Syntax39.exe
+C:\Users\Jin\source\repos\Syntax\Syntax39\bin\Debug\Syntax39.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax39\obj\Debug\Syntax39.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax39\obj\Debug\Syntax39.exe
+C:\Users\Jin\source\repos\Syntax\Syntax39\obj\Debug\Syntax39.pdb

@@ -1,0 +1,13 @@
+D:\repos\ch6_SwapByRef\bin\Debug\netcoreapp3.1\ch6_SwapByRef.exe
+D:\repos\ch6_SwapByRef\bin\Debug\netcoreapp3.1\ch6_SwapByRef.deps.json
+D:\repos\ch6_SwapByRef\bin\Debug\netcoreapp3.1\ch6_SwapByRef.runtimeconfig.json
+D:\repos\ch6_SwapByRef\bin\Debug\netcoreapp3.1\ch6_SwapByRef.runtimeconfig.dev.json
+D:\repos\ch6_SwapByRef\bin\Debug\netcoreapp3.1\ch6_SwapByRef.dll
+D:\repos\ch6_SwapByRef\bin\Debug\netcoreapp3.1\ch6_SwapByRef.pdb
+D:\repos\ch6_SwapByRef\obj\Debug\netcoreapp3.1\ch6_SwapByRef.csprojAssemblyReference.cache
+D:\repos\ch6_SwapByRef\obj\Debug\netcoreapp3.1\ch6_SwapByRef.AssemblyInfoInputs.cache
+D:\repos\ch6_SwapByRef\obj\Debug\netcoreapp3.1\ch6_SwapByRef.AssemblyInfo.cs
+D:\repos\ch6_SwapByRef\obj\Debug\netcoreapp3.1\ch6_SwapByRef.csproj.CoreCompileInputs.cache
+D:\repos\ch6_SwapByRef\obj\Debug\netcoreapp3.1\ch6_SwapByRef.dll
+D:\repos\ch6_SwapByRef\obj\Debug\netcoreapp3.1\ch6_SwapByRef.pdb
+D:\repos\ch6_SwapByRef\obj\Debug\netcoreapp3.1\ch6_SwapByRef.genruntimeconfig.cache

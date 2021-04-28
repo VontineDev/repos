@@ -1,0 +1,7 @@
+C:\Users\Jin\source\repos\ConsoleApp2Class1003\bin\Debug\ConsoleApp2Class1003.exe.config
+C:\Users\Jin\source\repos\ConsoleApp2Class1003\bin\Debug\ConsoleApp2Class1003.exe
+C:\Users\Jin\source\repos\ConsoleApp2Class1003\bin\Debug\ConsoleApp2Class1003.pdb
+C:\Users\Jin\source\repos\ConsoleApp2Class1003\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\ConsoleApp2Class1003\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\ConsoleApp2Class1003\obj\Debug\ConsoleApp2Class1003.exe
+C:\Users\Jin\source\repos\ConsoleApp2Class1003\obj\Debug\ConsoleApp2Class1003.pdb

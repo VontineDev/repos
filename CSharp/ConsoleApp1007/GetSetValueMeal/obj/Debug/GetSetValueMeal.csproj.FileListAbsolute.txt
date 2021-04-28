@@ -1,0 +1,7 @@
+C:\Workspace\ConsoleApp1007\GetSetValueMeal\obj\Debug\GetSetValueMeal.csprojAssemblyReference.cache
+C:\Workspace\ConsoleApp1007\GetSetValueMeal\obj\Debug\GetSetValueMeal.csproj.CoreCompileInputs.cache
+C:\Workspace\ConsoleApp1007\GetSetValueMeal\bin\Debug\GetSetValueMeal.exe.config
+C:\Workspace\ConsoleApp1007\GetSetValueMeal\bin\Debug\GetSetValueMeal.exe
+C:\Workspace\ConsoleApp1007\GetSetValueMeal\bin\Debug\GetSetValueMeal.pdb
+C:\Workspace\ConsoleApp1007\GetSetValueMeal\obj\Debug\GetSetValueMeal.exe
+C:\Workspace\ConsoleApp1007\GetSetValueMeal\obj\Debug\GetSetValueMeal.pdb

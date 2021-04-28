@@ -1,0 +1,7 @@
+C:\Workspace\Console\Syntax\11720\bin\Debug\11720.exe.config
+C:\Workspace\Console\Syntax\11720\bin\Debug\11720.exe
+C:\Workspace\Console\Syntax\11720\bin\Debug\11720.pdb
+C:\Workspace\Console\Syntax\11720\obj\Debug\11720.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\11720\obj\Debug\11720.exe
+C:\Workspace\Console\Syntax\11720\obj\Debug\11720.pdb
+C:\Workspace\Console\Syntax\11720\obj\Debug\11720.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Workspace\Console\Syntax\Syntax37\bin\Debug\Syntax37.exe.config
+C:\Workspace\Console\Syntax\Syntax37\bin\Debug\Syntax37.exe
+C:\Workspace\Console\Syntax\Syntax37\bin\Debug\Syntax37.pdb
+C:\Workspace\Console\Syntax\Syntax37\obj\Debug\Syntax37.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax37\obj\Debug\Syntax37.exe
+C:\Workspace\Console\Syntax\Syntax37\obj\Debug\Syntax37.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax37\bin\Debug\Syntax37.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax37\bin\Debug\Syntax37.exe
+C:\Users\Jin\source\repos\Syntax\Syntax37\bin\Debug\Syntax37.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax37\obj\Debug\Syntax37.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax37\obj\Debug\Syntax37.exe
+C:\Users\Jin\source\repos\Syntax\Syntax37\obj\Debug\Syntax37.pdb

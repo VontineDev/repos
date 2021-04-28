@@ -1,0 +1,14 @@
+C:\Workspace\Console\Syntax\Syntax24\bin\Debug\Syntax24.exe.config
+C:\Workspace\Console\Syntax\Syntax24\bin\Debug\Syntax24.exe
+C:\Workspace\Console\Syntax\Syntax24\bin\Debug\Syntax24.pdb
+C:\Workspace\Console\Syntax\Syntax24\obj\Debug\Syntax24.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax24\obj\Debug\Syntax24.exe
+C:\Workspace\Console\Syntax\Syntax24\obj\Debug\Syntax24.pdb
+C:\Workspace\Console\Syntax\Syntax24\bin\Debug\Syntax24.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\Syntax24\bin\Debug\Syntax24.exe.lastcodeanalysissucceeded
+C:\Users\Jin\source\repos\Syntax\Syntax24\bin\Debug\Syntax24.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax24\bin\Debug\Syntax24.exe
+C:\Users\Jin\source\repos\Syntax\Syntax24\bin\Debug\Syntax24.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax24\obj\Debug\Syntax24.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax24\obj\Debug\Syntax24.exe
+C:\Users\Jin\source\repos\Syntax\Syntax24\obj\Debug\Syntax24.pdb

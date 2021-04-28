@@ -1,0 +1,5 @@
+C:\Users\Jin\source\repos\1159\bin\Debug\1159.exe.config
+C:\Users\Jin\source\repos\1159\bin\Debug\1159.exe
+C:\Users\Jin\source\repos\1159\bin\Debug\1159.pdb
+C:\Users\Jin\source\repos\1159\obj\Debug\1159.exe
+C:\Users\Jin\source\repos\1159\obj\Debug\1159.pdb

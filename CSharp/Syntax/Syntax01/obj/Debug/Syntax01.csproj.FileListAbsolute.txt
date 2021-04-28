@@ -1,0 +1,9 @@
+C:\Workspace\Console\Syntax\Syntax01\bin\Debug\Syntax01.exe.config
+C:\Workspace\Console\Syntax\Syntax01\bin\Debug\Syntax01.exe
+C:\Workspace\Console\Syntax\Syntax01\bin\Debug\Syntax01.pdb
+C:\Workspace\Console\Syntax\Syntax01\obj\Debug\Syntax01.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax01\obj\Debug\Syntax01.exe
+C:\Workspace\Console\Syntax\Syntax01\obj\Debug\Syntax01.pdb
+C:\Workspace\Console\Syntax\Syntax01\bin\Debug\Syntax01.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\Syntax01\bin\Debug\Syntax01.exe.lastcodeanalysissucceeded
+C:\Workspace\Console\Syntax\Syntax01\obj\Debug\Syntax01.csprojAssemblyReference.cache

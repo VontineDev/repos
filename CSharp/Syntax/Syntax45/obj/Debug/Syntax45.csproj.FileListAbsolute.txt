@@ -1,0 +1,7 @@
+C:\Workspace\Console\Syntax\Syntax45\bin\Debug\Syntax45.exe.config
+C:\Workspace\Console\Syntax\Syntax45\bin\Debug\Syntax45.exe
+C:\Workspace\Console\Syntax\Syntax45\bin\Debug\Syntax45.pdb
+C:\Workspace\Console\Syntax\Syntax45\obj\Debug\Syntax45.csprojAssemblyReference.cache
+C:\Workspace\Console\Syntax\Syntax45\obj\Debug\Syntax45.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax45\obj\Debug\Syntax45.exe
+C:\Workspace\Console\Syntax\Syntax45\obj\Debug\Syntax45.pdb

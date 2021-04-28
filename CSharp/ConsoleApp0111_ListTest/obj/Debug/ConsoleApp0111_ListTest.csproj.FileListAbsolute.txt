@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\ConsoleApp0111_ListTest\bin\Debug\ConsoleApp0111_ListTest.exe.config
+C:\Users\Jin\source\repos\ConsoleApp0111_ListTest\bin\Debug\ConsoleApp0111_ListTest.exe
+C:\Users\Jin\source\repos\ConsoleApp0111_ListTest\bin\Debug\ConsoleApp0111_ListTest.pdb
+C:\Users\Jin\source\repos\ConsoleApp0111_ListTest\obj\Debug\ConsoleApp0111_ListTest.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\ConsoleApp0111_ListTest\obj\Debug\ConsoleApp0111_ListTest.exe
+C:\Users\Jin\source\repos\ConsoleApp0111_ListTest\obj\Debug\ConsoleApp0111_ListTest.pdb

@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\Syntax25\bin\Debug\Syntax25.exe.config
+C:\Workspace\Console\Syntax\Syntax25\bin\Debug\Syntax25.exe
+C:\Workspace\Console\Syntax\Syntax25\bin\Debug\Syntax25.pdb
+C:\Workspace\Console\Syntax\Syntax25\obj\Debug\Syntax25.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax25\obj\Debug\Syntax25.exe
+C:\Workspace\Console\Syntax\Syntax25\obj\Debug\Syntax25.pdb
+C:\Workspace\Console\Syntax\Syntax25\bin\Debug\Syntax25.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\Syntax25\bin\Debug\Syntax25.exe.lastcodeanalysissucceeded

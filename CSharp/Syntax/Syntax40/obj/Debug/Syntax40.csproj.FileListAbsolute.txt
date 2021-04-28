@@ -1,0 +1,14 @@
+C:\Workspace\Console\Syntax\Syntax40\bin\Debug\Syntax40.exe.config
+C:\Workspace\Console\Syntax\Syntax40\bin\Debug\Syntax40.exe
+C:\Workspace\Console\Syntax\Syntax40\bin\Debug\Syntax40.pdb
+C:\Workspace\Console\Syntax\Syntax40\obj\Debug\Syntax40.csprojAssemblyReference.cache
+C:\Workspace\Console\Syntax\Syntax40\obj\Debug\Syntax40.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax40\obj\Debug\Syntax40.exe
+C:\Workspace\Console\Syntax\Syntax40\obj\Debug\Syntax40.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax40\bin\Debug\Syntax40.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax40\bin\Debug\Syntax40.exe
+C:\Users\Jin\source\repos\Syntax\Syntax40\bin\Debug\Syntax40.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax40\obj\Debug\Syntax40.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\Syntax\Syntax40\obj\Debug\Syntax40.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax40\obj\Debug\Syntax40.exe
+C:\Users\Jin\source\repos\Syntax\Syntax40\obj\Debug\Syntax40.pdb

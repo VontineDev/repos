@@ -1,0 +1,7 @@
+C:\Workspace\ConsoleApp1007\PC\bin\Debug\PC.exe.config
+C:\Workspace\ConsoleApp1007\PC\bin\Debug\PC.exe
+C:\Workspace\ConsoleApp1007\PC\bin\Debug\PC.pdb
+C:\Workspace\ConsoleApp1007\PC\obj\Debug\PC.csprojAssemblyReference.cache
+C:\Workspace\ConsoleApp1007\PC\obj\Debug\PC.csproj.CoreCompileInputs.cache
+C:\Workspace\ConsoleApp1007\PC\obj\Debug\PC.exe
+C:\Workspace\ConsoleApp1007\PC\obj\Debug\PC.pdb

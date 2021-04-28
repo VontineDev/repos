@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\testAnyThing\bin\Debug\testAnyThing.exe.config
+C:\Workspace\Console\Syntax\testAnyThing\bin\Debug\testAnyThing.exe
+C:\Workspace\Console\Syntax\testAnyThing\bin\Debug\testAnyThing.pdb
+C:\Workspace\Console\Syntax\testAnyThing\obj\Debug\testAnyThing.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\testAnyThing\obj\Debug\testAnyThing.exe
+C:\Workspace\Console\Syntax\testAnyThing\obj\Debug\testAnyThing.pdb
+C:\Workspace\Console\Syntax\testAnyThing\bin\Debug\testAnyThing.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\testAnyThing\bin\Debug\testAnyThing.exe.lastcodeanalysissucceeded

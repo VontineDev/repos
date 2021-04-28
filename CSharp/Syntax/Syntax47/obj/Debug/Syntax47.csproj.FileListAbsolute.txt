@@ -1,0 +1,12 @@
+C:\Workspace\Console\Syntax\Syntax47\bin\Debug\Syntax47.exe.config
+C:\Workspace\Console\Syntax\Syntax47\bin\Debug\Syntax47.exe
+C:\Workspace\Console\Syntax\Syntax47\bin\Debug\Syntax47.pdb
+C:\Workspace\Console\Syntax\Syntax47\obj\Debug\Syntax47.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax47\obj\Debug\Syntax47.exe
+C:\Workspace\Console\Syntax\Syntax47\obj\Debug\Syntax47.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax47\bin\Debug\Syntax47.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax47\bin\Debug\Syntax47.exe
+C:\Users\Jin\source\repos\Syntax\Syntax47\bin\Debug\Syntax47.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax47\obj\Debug\Syntax47.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax47\obj\Debug\Syntax47.exe
+C:\Users\Jin\source\repos\Syntax\Syntax47\obj\Debug\Syntax47.pdb

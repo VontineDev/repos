@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\1152\bin\Debug\1152.exe.config
+C:\Users\Jin\source\repos\1152\bin\Debug\1152.exe
+C:\Users\Jin\source\repos\1152\bin\Debug\1152.pdb
+C:\Users\Jin\source\repos\1152\obj\Debug\1152.csprojAssemblyReference.cache
+C:\Users\Jin\source\repos\1152\obj\Debug\1152.exe
+C:\Users\Jin\source\repos\1152\obj\Debug\1152.pdb

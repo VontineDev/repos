@@ -1,0 +1,8 @@
+C:\Workspace\Console\Syntax\Syntax20\bin\Debug\Syntax20.exe.config
+C:\Workspace\Console\Syntax\Syntax20\bin\Debug\Syntax20.exe
+C:\Workspace\Console\Syntax\Syntax20\bin\Debug\Syntax20.pdb
+C:\Workspace\Console\Syntax\Syntax20\obj\Debug\Syntax20.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax20\obj\Debug\Syntax20.exe
+C:\Workspace\Console\Syntax\Syntax20\obj\Debug\Syntax20.pdb
+C:\Workspace\Console\Syntax\Syntax20\bin\Debug\Syntax20.exe.CodeAnalysisLog.xml
+C:\Workspace\Console\Syntax\Syntax20\bin\Debug\Syntax20.exe.lastcodeanalysissucceeded

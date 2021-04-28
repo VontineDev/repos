@@ -1,0 +1,14 @@
+C:\Users\Jin\source\repos\Algorithm\bin\Debug\Algorithm.exe.config
+C:\Users\Jin\source\repos\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\Jin\source\repos\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\Jin\source\repos\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\Jin\source\repos\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\Jin\source\repos\Algorithm\bin\Debug\Algorithm.exe.CodeAnalysisLog.xml
+C:\Users\Jin\source\repos\Algorithm\bin\Debug\Algorithm.exe.lastcodeanalysissucceeded
+D:\repos\Algorithm\bin\Debug\Algorithm.exe.config
+D:\repos\Algorithm\bin\Debug\Algorithm.exe
+D:\repos\Algorithm\bin\Debug\Algorithm.pdb
+D:\repos\Algorithm\obj\Debug\Algorithm.csprojAssemblyReference.cache
+D:\repos\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+D:\repos\Algorithm\obj\Debug\Algorithm.exe
+D:\repos\Algorithm\obj\Debug\Algorithm.pdb

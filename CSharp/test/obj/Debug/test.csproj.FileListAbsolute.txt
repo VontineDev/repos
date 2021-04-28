@@ -1,0 +1,6 @@
+C:\Users\Jin\source\repos\test\bin\Debug\test.exe.config
+C:\Users\Jin\source\repos\test\bin\Debug\test.exe
+C:\Users\Jin\source\repos\test\bin\Debug\test.pdb
+C:\Users\Jin\source\repos\test\obj\Debug\test.exe
+C:\Users\Jin\source\repos\test\obj\Debug\test.pdb
+C:\Users\Jin\source\repos\test\obj\Debug\test.csprojAssemblyReference.cache

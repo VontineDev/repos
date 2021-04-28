@@ -1,0 +1,12 @@
+C:\Workspace\Console\Syntax\Syntax44\bin\Debug\Syntax44.exe.config
+C:\Workspace\Console\Syntax\Syntax44\bin\Debug\Syntax44.exe
+C:\Workspace\Console\Syntax\Syntax44\bin\Debug\Syntax44.pdb
+C:\Workspace\Console\Syntax\Syntax44\obj\Debug\Syntax44.csproj.CoreCompileInputs.cache
+C:\Workspace\Console\Syntax\Syntax44\obj\Debug\Syntax44.exe
+C:\Workspace\Console\Syntax\Syntax44\obj\Debug\Syntax44.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax44\bin\Debug\Syntax44.exe.config
+C:\Users\Jin\source\repos\Syntax\Syntax44\bin\Debug\Syntax44.exe
+C:\Users\Jin\source\repos\Syntax\Syntax44\bin\Debug\Syntax44.pdb
+C:\Users\Jin\source\repos\Syntax\Syntax44\obj\Debug\Syntax44.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\Syntax\Syntax44\obj\Debug\Syntax44.exe
+C:\Users\Jin\source\repos\Syntax\Syntax44\obj\Debug\Syntax44.pdb
